@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Driver monitoring system</string>
+    <string name="main_enter_some_message">enter some message</string>
+    />
+    <string name="general_submit">submit</string>
+    <string name="general_messages">message</string>
+    <string name="general_please_write_some_message">please enter some message</string>
+    <string name="the_driver_is">The driver is :</string>
+    <string name="how_do_you_feel_right_now">How do you feel right now ?</string>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Margin dimens -->
+    <dimen name="margin_normal_quarter">2dp</dimen>
+    <dimen name="margin_normal_half">4dp</dimen>
+    <dimen name="margin_normal">8dp</dimen>
+    <dimen name="margin_normal_10dp">10dp</dimen>
+    <dimen name="margin_normal_and_half">12dp</dimen>
+    <dimen name="margin_normal_0">0dp</dimen>
+    <dimen name="margin_normal_x2">16dp</dimen>
+    <dimen name="margin_normal_x2_half">20dp</dimen>
+    <dimen name="margin_normal_x3">24dp</dimen>
+    <dimen name="margin_normal_x3_half">28dp</dimen>
+    <dimen name="margin_normal_x4">32dp</dimen>
+    <dimen name="margin_normal_x4_half">48dp</dimen>
+    <dimen name="margin_normal_x5">40dp</dimen>
+    <dimen name="margin_normal_x5_half">44dp</dimen>
+    <dimen name="margin_normal_x6">48dp</dimen>
+    <dimen name="margin_normal_x8">64dp</dimen>
+    <!-- Padding  dimens -->
+    <dimen name="padding_normal">8dp</dimen>
+    <dimen name="padding_normal_and_half">12dp</dimen>
+    <dimen name="padding_normal_0">0dp</dimen>
+    <dimen name="padding_normal_x2">16dp</dimen>
+
+    <!-- Button dimens -->
+    <dimen name="button_corner_radius">10dp</dimen>
+
+    <!-- Text dimens -->
+    <dimen name="text_s">10sp</dimen>
+    <dimen name="text_n">14sp</dimen>
+    <dimen name="text_m">16sp</dimen>
+    <dimen name="text_l">18sp</dimen>
+    <dimen name="text_l_2">20sp</dimen>
+    <dimen name="text_xl">24sp</dimen>
+    <dimen name="text_xl_2">30sp</dimen>
+    <dimen name="text_xxl">36sp</dimen>
+    <dimen name="text_xxxl">48sp</dimen>
+    <dimen name="text_xxxxl">74sp</dimen>
+
+    <!--ImageView dimens -->
+    <dimen name="image_xxs">20dp</dimen>
+    <dimen name="image_xs">30dp</dimen>
+    <dimen name="image_xs_2">40dp</dimen>
+    <dimen name="image_s">60dp</dimen>
+    <dimen name="image_m">100dp</dimen>
+    <dimen name="image_l">135dp</dimen>
+    <dimen name="image_xl">205dp</dimen>
+    <dimen name="image_xl_2">240dp</dimen>
+    <dimen name="image_xxl">300dp</dimen>
+    <dimen name="image_xxl_2">380dp</dimen>
+    <dimen name="image_xxl_4">480dp</dimen>
+
+    <!-- icons and logo size-->
+    <dimen name="splash_logo_size">200dp</dimen>
+    <dimen name="home_logo_size">150dp</dimen>
+    <dimen name="lottie_size">150dp</dimen>
+    <dimen name="login_logo_size">125dp</dimen>
+    <dimen name="splash_psa_logo_width">150dp</dimen>
+    <dimen name="splash_psa_logo_height">75dp</dimen>
+
+    <!--toolbar-->
+    <dimen name="custom_toolbar_size">64dp</dimen>
+    <dimen name="toolbar_left_image_size">75dp</dimen>
+    <dimen name="toolbar_icon_size">34dp</dimen>
+    <dimen name="form_boolean_size">72dp</dimen>
+
+    <dimen name="form_icon_size">48dp</dimen>
+    <dimen name="form_icon_size_large">74dp</dimen>
+    <dimen name="form_custom_area_height">180dp</dimen>
+    <dimen name="shadow_height">8dp</dimen>
+    <dimen name="virtual_keyboard_height">300dp</dimen>
+    <dimen name="roll_width">60dp</dimen>
+    <dimen name="roll_height">120dp</dimen>
+
+    <dimen name="det_line_thickness_focused">2dp</dimen>
+
+
+
+    <dimen name="activity_horizontal_margin">15dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+
+
+</resources>
